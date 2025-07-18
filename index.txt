@@ -204,7 +204,7 @@ Subscribe
 
 Get the latest updates via email. Any time you may unsubscribe
 
-&copy; Doclab 2022 | All Rights Reserved by codewithsadee
+&copy; Doclab 2022 | All Rights Reserved
 
 <ion-icon name="logo-facebook"></ion-icon>
 <ion-icon name="logo-twitter"></ion-icon>
