@@ -62,5 +62,5 @@ doclab-template/
 
 ## 🧾 License
 
-&copy; 2022 Doclab | All Rights Reserved by [codewithsadee](https://github.com/codewithsadee)  
-This template is for educational/demo use unless otherwise licensed.
+&copy; 2022 Doclab | All Rights Reserved.[https://github.com/aman54285/] 
+This template is for educational/demo.
